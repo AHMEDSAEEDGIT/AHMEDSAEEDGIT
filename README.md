@@ -1,6 +1,6 @@
 # 👋 Hello, World!
 
-I'm [Ahmed Saeed], a passionate software development who loves turning ideas into elegant code solutions. My journey in the world of programming has been fueled by a curiosity for technology and a desire to create impactful software.
+I'm Ahmed Saeed, a passionate software development who loves turning ideas into elegant code solutions. My journey in the world of programming has been fueled by a curiosity for technology and a desire to create impactful software.
 
 ## 🔧 Skills & Technologies
 
